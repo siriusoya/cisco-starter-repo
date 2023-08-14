@@ -24,13 +24,13 @@ body {
 }
 
 .dataContainer {
-  height: 12em;
+  height: 9em;
   width: 40em;
   background-color: #EAB244;
   border-radius: 25px;
   font-family: 'Montserrat', sans-serif;
   padding: 0 1em 0 1em;
-  margin-bottom: 2.5em;
+  margin-bottom: 2em;
 }
 
 .dataTitle {
@@ -44,6 +44,6 @@ body {
 
 .data {
   text-align: center;
-  font-size: 70px;
+  font-size: 45px;
   margin-top: 0.25em;
 }
