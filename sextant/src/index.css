@@ -10,6 +10,7 @@ body {
   color: #EAB244;
   font-family: 'Tektur', cursive;
   font-size: 4em;
+  margin-bottom: 0.5em;
   margin-top: 0;
 }
 
@@ -30,7 +31,17 @@ body {
   border-radius: 25px;
   font-family: 'Montserrat', sans-serif;
   padding: 0 1em 0 1em;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
+}
+
+.latencyContainer {
+  height: 8em;
+  width: 40em;
+  background-color: #EAB244;
+  border-radius: 25px;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 1em 0 1em;
+  margin-bottom: 1.5em;
 }
 
 .dataTitle {
@@ -45,5 +56,11 @@ body {
 .data {
   text-align: center;
   font-size: 45px;
+  margin-top: 0.25em;
+}
+
+.latency {
+  text-align: center;
+  font-size: 35px;
   margin-top: 0.25em;
 }
